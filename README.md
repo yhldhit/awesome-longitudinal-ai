@@ -19,13 +19,6 @@ This repository is intended to organize and share resources around:
 - `resources/`: datasets, benchmarks, libraries, and links
 - `templates/`: reusable note-taking templates
 
-## Suggested Workflow
-
-1. Add papers to a category file under `papers/`
-2. Write one reading note per paper under `notes/`
-3. Track useful datasets and codebases under `resources/`
-4. Periodically refine the curated lists for public sharing
-
 ## Planned Sections
 
 - Surveys
@@ -36,6 +29,3 @@ This repository is intended to organize and share resources around:
 - Benchmarks and datasets
 - Open-source tooling
 
-## License
-
-You can add a license later depending on whether you want this repo to be fully open for reuse.
