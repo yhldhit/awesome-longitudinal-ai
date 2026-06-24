@@ -12,20 +12,36 @@ This repository is intended to organize and share resources around:
 - Multimodal longitudinal data
 - Datasets, benchmarks, and surveys
 
-## Repository Structure
+## Content
 
-- `papers/`: paper lists and categorized reading collections
-- `notes/`: reading notes and summaries
-- `resources/`: datasets, benchmarks, libraries, and links
-- `templates/`: reusable note-taking templates
+- [Survey papers](#survey-papers)
+- [Research Papers](#research-papers)
+  - [Foundation models](#foundation-models)
+  - [Diffusion-based](#diffusion-based)
+  - [Latent Diffusion-based](#latent-diffusion-based)
+  - [Multimodal-based](#multimodal-based)
+- [Resources]
+  - [Datasets](#datasets)
+  - [Benchmarks](#benchmarks)
 
-## Planned Sections
+## Survey Papers
 
-- Surveys
-- Foundation models
-- EHR and clinical sequence modeling
-- Multimodal longitudinal learning
-- Disease progression and risk prediction
-- Benchmarks and datasets
-- Open-source tooling
+**A Survey on Generative Diffusion Model** \
+*Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
+[6th Sep., 2022] [arXiv, 2022] \
+[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] [[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)][[Note](notes/README.md)]
+## Research Papers
+
+### Foundation models
+
+### Diffusion-based
+
+### Latent Diffusion-based
+
+### Multimodal-based
+
+## Resources
+
+### Datasets
+### Benchmarks
 
