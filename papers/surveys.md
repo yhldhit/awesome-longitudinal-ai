@@ -1,5 +1,0 @@
-# Surveys
-
-## Papers
-
-- TBD

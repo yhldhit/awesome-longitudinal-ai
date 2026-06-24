@@ -1,5 +1,0 @@
-# Foundation Models
-
-## Papers
-
-- TBD

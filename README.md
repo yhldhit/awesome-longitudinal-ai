@@ -2,25 +2,24 @@
 
 A curated repository for papers, tools, datasets, benchmarks, and notes related to longitudinal AI.
 
-## Scope
+<!-- ## Scope -->
 
-This repository is intended to organize and share resources around:
+<!-- This repository is intended to organize and share resources around:
 
 - Longitudinal modeling in healthcare and biomedicine
 - Time-aware foundation models and representation learning
 - Sequential decision making and patient trajectory modeling
 - Multimodal longitudinal data
-- Datasets, benchmarks, and surveys
-
-## Content
-
+- Datasets, benchmarks, and surveys -->
+## Contents
 - [Survey Papers](#survey-papers)
 - [Research Papers](#research-papers)
   - [Foundation models](#foundation-models)
   - [Diffusion-based](#diffusion-based)
+  - [Flow matching-based](#flow-matching-based)
   - [Latent Diffusion-based](#latent-diffusion-based)
   - [Multimodal-based](#multimodal-based)
-- [Resources]
+- [Resources](#resouces)
   - [Datasets](#datasets)
   - [Benchmarks](#benchmarks)
 
@@ -28,20 +27,61 @@ This repository is intended to organize and share resources around:
 
 **A Survey on Generative Diffusion Model** \
 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
-[Feb., 2024] [TKDE, 2024] \
-[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] [[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)][[Note](notes/README.md)]
+[TKDE, 2024] [CUHK, Weslake University]\
+[[Paper](https://arxiv.org/pdf/2209.02646.pdf)] [[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)] [[Note](notes/cao_2024_a-survey-on-generative-diffusion-model.md)]
+
+**A Survey on Diffusion Models for Time Series and Spatio-Temporal Data** \
+*Yiyuan Yang, Ming Jin, Haomin Wen, Chaoli Zhang, Yuxuan Liang, Lintao Ma, Yi Wang, Chenghao Liu, Bin Yang, Zenglin Xu, Shirui Pan, Qingsong Wen* \
+[ACM Computing Surveys, 2026] \
+[[Paper](https://dl.acm.org/doi/epdf/10.1145/3783986)] [[Note](notes/yang_2026_survey-on-diffusion-models-for-time-series-and-spatio-temporal-data.md)]
+
+**A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation** \
+*Shaoyang Zhou, Yingshu Li, Yunyi Liu, Lingqiao Liu, Lei Wang, Luping Zhou* \
+[arXiv, 2025] \
+[[Paper](https://arxiv.org/pdf/2510.12444)] [[Note](notes/zhou_2025_review-of-longitudinal-radiology-report-generation.md)]
+
+**Foundation Models in Radiology: What, How, Why, and Why Not** \
+*Magdalini Paschali, Zhihong Chen, Louis Blankemeier, Maya Varma, Alaa Youssef, Christian Bluethgen, Curtis Langlotz, Sergios Gatidis, Akshay Chaudhari* \
+[Radiology, 2025] \
+[[Paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240597)] [[Note](notes/paschali_2025_foundation-models-in-radiology.md)]
+
 ## Research Papers
 
 ### Foundation models
 
+**LaTiM: Longitudinal Representation Learning in Continuous-Time Models to Predict Disease Progression** \
+*Rachid Zeghlache, Pierre-Henri Conze, Mostafa El Habib Daho, Yihao Li, Hugo Le Boité, Ramin Tadayoni, Pascal Massin, Béatrice Cochener, Alireza Rezaei, Ikram Brahim, Gwenolé Quellec, Mathieu Lamard* \
+[MICCAI, 2024] \
+[[Paper](https://papers.miccai.org/miccai-2024/paper/0263_paper.pdf)] [[Note](notes/zeghlache_2024_latim-longitudinal-representation-learning.md)]
+
 ### Diffusion-based
 
 ### Latent Diffusion-based
+
+**Conditional Latent Diffusion Models for Irregularly Spaced Longitudinal Radiological Data** \
+*Nabil Mouadden, Othmane Laousy, Rafael Marini, Valentin Ong, Marie-Pierre Revel, Guillaume Chassagnon, Stergios Christodoulidis, Maria Vakalopoulou* \
+[MICCAI, 2025] [CentraleSupelec, Hôpital Cochin AP-HP, Archimedes/Athena RC] \
+[[Paper](https://papers.miccai.org/miccai-2025/paper/2656_paper.pdf)] [[Note](notes/mouadden_2025_conditional-latent-diffusion-models-for-irregularly-spaced-longitudinal-radiological-data.md)]
+
+
+
+### Flow Matching-based
+
+**ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images** \
+*Chen Liu, Ke Xu, Liangbo L. Shen, Guillaume Huguet, Zilong Wang, Alexander Tong, Danilo Bzdok, Jay Stewart, Jay C. Wang, Lucian V. Del Priore, Smita Krishnaswamy* \
+[arXiv, 2024] \
+[[Paper](https://arxiv.org/pdf/2406.14794)] [[Github](https://github.com/KrishnaswamyLab/ImageFlowNet)] [[Note](notes/liu_2024_imageflownet-forecasting-multiscale-trajectories.md)]
+
+**Learning Patient-specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation** \
+*Hao Chen, Rui Yin, Yifan Chen, Qi Chen, Chao Li* \
+[ICLR, 2026][University of Cambridge, Nanjing Medical University, University of Dundee]
+[[Paper](https://openreview.net/pdf?id=cuGnuOfQ4U)] [[Github](https://github.com/chqwer2/Delta-LDM-Longitudinal)] [[Note](notes/chen_2026_learning-patient-specific-disease-dynamics-with-latent-flow-matching-for-longitudinal-imaging-generation.md)]
 
 ### Multimodal-based
 
 ## Resources
 
 ### Datasets
+
 ### Benchmarks
 
