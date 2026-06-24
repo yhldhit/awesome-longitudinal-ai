@@ -28,7 +28,7 @@ This repository is intended to organize and share resources around:
 
 **A Survey on Generative Diffusion Model** \
 *Hanqun Cao, Cheng Tan, Zhangyang Gao, Guangyong Chen, Pheng-Ann Heng, Stan Z. Li* \
-[6th Sep., 2022] [arXiv, 2022] \
+[Feb., 2024] [TKDE, 2024] \
 [[Paper](https://arxiv.org/pdf/2209.02646.pdf)] [[Github](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)][[Note](notes/README.md)]
 ## Research Papers
 
