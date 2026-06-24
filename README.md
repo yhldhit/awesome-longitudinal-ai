@@ -32,17 +32,17 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 
 **A Survey on Diffusion Models for Time Series and Spatio-Temporal Data** \
 *Yiyuan Yang, Ming Jin, Haomin Wen, Chaoli Zhang, Yuxuan Liang, Lintao Ma, Yi Wang, Chenghao Liu, Bin Yang, Zenglin Xu, Shirui Pan, Qingsong Wen* \
-[ACM Computing Surveys, 2026] \
+[ACM Computing Surveys, 2026] [University of Oxford, Griffith University, Carnegie Mellon University] \
 [[Paper](https://dl.acm.org/doi/epdf/10.1145/3783986)] [[Note](notes/yang_2026_survey-on-diffusion-models-for-time-series-and-spatio-temporal-data.md)]
 
 **A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation** \
 *Shaoyang Zhou, Yingshu Li, Yunyi Liu, Lingqiao Liu, Lei Wang, Luping Zhou* \
-[arXiv, 2025] \
+[arXiv, 2025] [The University of Sydney, The University of Adelaide, University of Wollongong] \
 [[Paper](https://arxiv.org/pdf/2510.12444)] [[Note](notes/zhou_2025_review-of-longitudinal-radiology-report-generation.md)]
 
 **Foundation Models in Radiology: What, How, Why, and Why Not** \
 *Magdalini Paschali, Zhihong Chen, Louis Blankemeier, Maya Varma, Alaa Youssef, Christian Bluethgen, Curtis Langlotz, Sergios Gatidis, Akshay Chaudhari* \
-[Radiology, 2025] \
+[Radiology, 2025] [Stanford Center for AI in Medicine and Imaging, Stanford University, University Hospital Zurich] \
 [[Paper](https://pubs.rsna.org/doi/epdf/10.1148/radiol.240597)] [[Note](notes/paschali_2025_foundation-models-in-radiology.md)]
 
 ## Research Papers
@@ -51,7 +51,7 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 
 **LaTiM: Longitudinal Representation Learning in Continuous-Time Models to Predict Disease Progression** \
 *Rachid Zeghlache, Pierre-Henri Conze, Mostafa El Habib Daho, Yihao Li, Hugo Le Boité, Ramin Tadayoni, Pascal Massin, Béatrice Cochener, Alireza Rezaei, Ikram Brahim, Gwenolé Quellec, Mathieu Lamard* \
-[MICCAI, 2024] \
+[MICCAI, 2024] [LaTIM Inserm UMR 1101, University of Western Brittany, Lariboisiere Hospital AP-HP] \
 [[Paper](https://papers.miccai.org/miccai-2024/paper/0263_paper.pdf)] [[Note](notes/zeghlache_2024_latim-longitudinal-representation-learning.md)]
 
 ### Diffusion-based
@@ -69,12 +69,12 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 
 **ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images** \
 *Chen Liu, Ke Xu, Liangbo L. Shen, Guillaume Huguet, Zilong Wang, Alexander Tong, Danilo Bzdok, Jay Stewart, Jay C. Wang, Lucian V. Del Priore, Smita Krishnaswamy* \
-[arXiv, 2024] \
+[arXiv, 2024] [Yale University, New York Eye and Ear Infirmary of Mount Sinai] \
 [[Paper](https://arxiv.org/pdf/2406.14794)] [[Github](https://github.com/KrishnaswamyLab/ImageFlowNet)] [[Note](notes/liu_2024_imageflownet-forecasting-multiscale-trajectories.md)]
 
 **Learning Patient-specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation** \
 *Hao Chen, Rui Yin, Yifan Chen, Qi Chen, Chao Li* \
-[ICLR, 2026][University of Cambridge, Nanjing Medical University, University of Dundee]
+[ICLR, 2026] [University of Cambridge, Nanjing Medical University, University of Dundee] \
 [[Paper](https://openreview.net/pdf?id=cuGnuOfQ4U)] [[Github](https://github.com/chqwer2/Delta-LDM-Longitudinal)] [[Note](notes/chen_2026_learning-patient-specific-disease-dynamics-with-latent-flow-matching-for-longitudinal-imaging-generation.md)]
 
 ### Multimodal-based
