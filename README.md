@@ -14,7 +14,7 @@ This repository is intended to organize and share resources around:
 
 ## Content
 
-- [Survey papers](#survey-papers)
+- [Survey Papers](#survey-papers)
 - [Research Papers](#research-papers)
   - [Foundation models](#foundation-models)
   - [Diffusion-based](#diffusion-based)
