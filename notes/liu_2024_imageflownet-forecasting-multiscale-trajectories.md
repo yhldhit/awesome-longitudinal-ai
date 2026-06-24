@@ -31,24 +31,6 @@ ImageFlowNet learns multiscale representation spaces across patients and time po
 - Combines shared representation learning across patients with flow-based temporal evolution modeling.
 - Outperforms prior longitudinal forecasting baselines on three medical imaging datasets, according to the arXiv abstract.
 
-## Strengths
-
-- Directly addresses a core longitudinal AI problem: forecasting patient-specific disease evolution from irregularly sampled images.
-- Preserves spatial detail instead of reducing the task to only low-dimensional trajectory prediction.
-- Evaluates across multiple diseases and imaging contexts, suggesting broader robustness.
-
-## Limitations
-
-- This note is currently based on the arXiv abstract and repository metadata rather than a full section-by-section extraction.
-- The method is flow-based rather than a standard diffusion formulation, so its fit with diffusion-oriented taxonomy is approximate.
-- Exact quantitative gains, ablations, and failure modes still need to be extracted from the full paper.
-
 ## Relevance to Longitudinal AI
 
 This paper is highly relevant. It focuses squarely on irregularly sampled longitudinal imaging trajectories and provides a generative temporal modeling framework for disease progression forecasting.
-
-## Follow-up Ideas
-
-- Extract the exact datasets, evaluation metrics, and baseline methods from the full paper.
-- Compare ImageFlowNet with latent diffusion and latent flow matching approaches already in the repository.
-- Revisit the repository taxonomy later if enough flow-based longitudinal generation papers accumulate to justify a dedicated subsection.

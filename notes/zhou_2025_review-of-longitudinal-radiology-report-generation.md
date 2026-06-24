@@ -28,24 +28,6 @@ As a review paper, it organizes the field around three main aspects: dataset con
 - Covers evaluation methods, including longitudinal-specific measures and common report-generation benchmarks.
 - Highlights major current limitations and future research directions for the field.
 
-## Strengths
-
-- Highly aligned with longitudinal AI in a clinically important multimodal setting.
-- Helps structure an emerging literature that is otherwise scattered across report-generation and medical vision-language communities.
-- Useful as an entry point for understanding datasets, architectures, and evaluation gaps in longitudinal report generation.
-
-## Limitations
-
-- As a survey, it does not propose a new modeling method directly.
-- The current note is based mainly on the arXiv abstract and metadata; detailed method taxonomy and benchmark tables still need fuller extraction.
-- The scope appears centered on radiology report generation, especially chest X-ray contexts, rather than all longitudinal medical modalities.
-
 ## Relevance to Longitudinal AI
 
 This paper is highly relevant. It covers a core longitudinal AI problem where historical context, temporal comparison, and multimodal clinical understanding all matter for generating faithful follow-up reports.
-
-## Follow-up Ideas
-
-- Extract the survey's taxonomy of longitudinal report-generation architectures into a reusable table for the repository.
-- Add the key datasets and evaluation metrics mentioned in the paper to the `Resources` section later.
-- Use this survey to identify seminal longitudinal radiology report-generation papers that should also be added individually.

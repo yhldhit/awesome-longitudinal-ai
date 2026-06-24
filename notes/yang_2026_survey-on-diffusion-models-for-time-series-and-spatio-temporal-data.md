@@ -27,24 +27,6 @@ The survey organizes diffusion-model literature for temporal data by separating 
 - Organizes the literature by task, modality, and domain, which makes the field easier to navigate.
 - Includes healthcare among the key application areas relevant to longitudinal AI.
 
-## Strengths
-
-- Useful high-level map of diffusion work beyond static image generation.
-- Especially relevant for understanding how diffusion ideas are adapted to structured temporal settings.
-- Helps connect longitudinal AI with the wider time-series and spatio-temporal diffusion literature.
-
-## Limitations
-
-- The scope is broad and not focused specifically on longitudinal medical AI.
-- The current note is based mainly on Crossref metadata and abstract-level content rather than a full manual extraction of the survey taxonomy.
-- Some covered domains may be less directly relevant to patient-trajectory modeling than others.
-
 ## Relevance to Longitudinal AI
 
 This paper is indirectly but strongly relevant. It provides a broad background on temporal diffusion modeling, which is useful for organizing longitudinal forecasting, imputation, and generative trajectory work in healthcare and multimodal patient data.
-
-## Follow-up Ideas
-
-- Extract the healthcare-specific diffusion papers mentioned in the survey and add the most relevant ones individually.
-- Compare its taxonomy with the repository's current `Diffusion-based`, `Flow Matching-based`, and `Latent Diffusion-based` sections.
-- Add any publicly released companion repository later if a stable link is confirmed.

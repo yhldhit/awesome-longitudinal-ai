@@ -28,24 +28,6 @@ As a review paper, it organizes the field around the defining properties of radi
 - Discusses clinical use cases, evaluation strategies, and major risks such as hallucination and automation bias.
 - Emphasizes the need for standardized benchmarks and responsible deployment practices.
 
-## Strengths
-
-- Strong overview paper for the radiology-specific foundation model landscape.
-- Bridges technical model design with clinical workflow and safety considerations.
-- Useful reference for understanding how multimodal, self-supervised, and large-scale pretraining ideas translate into radiology.
-
-## Limitations
-
-- This is a review paper, so it does not introduce a new longitudinal modeling method directly.
-- Its scope is broader than longitudinal AI and focuses on radiology foundation models overall.
-- The current note is based on the published Radiology review page and abstract-level content; a deeper extraction of the paper's tables and taxonomy could still add value.
-
 ## Relevance to Longitudinal AI
 
 This paper is indirectly but importantly relevant. It provides background on multimodal and self-supervised foundation model design in radiology, which is useful for longitudinal imaging, longitudinal report generation, and future patient-trajectory modeling systems.
-
-## Follow-up Ideas
-
-- Extract the review's discussion of multimodal radiology datasets into the repository `Resources` section later.
-- Add longitudinally oriented foundation model papers that build on the pretraining and adaptation patterns summarized here.
-- Compare this review with longitudinal radiology report-generation surveys to identify shared benchmark and evaluation gaps.

@@ -27,23 +27,6 @@ The paper organizes diffusion-model literature around core formulations, samplin
 - Summarizes major improvements in sampling efficiency, controllability, and model quality.
 - Highlights broad applications of diffusion models across vision and other generative tasks.
 
-## Strengths
-
-- Broad and systematic overview of the diffusion-model landscape.
-- Useful entry point for understanding terminology and major research directions.
-- Connects theoretical ideas with practical model families and applications.
-
-## Limitations
-
-- Focused on diffusion models broadly rather than longitudinal AI specifically.
-- As a fast-moving area, parts of the survey may age quickly as new model classes emerge.
-
 ## Relevance to Longitudinal AI
 
 This paper is indirectly relevant. Diffusion models may become useful for longitudinal AI in trajectory generation, missing-data imputation, temporal simulation, and multimodal patient-course modeling.
-
-## Follow-up Ideas
-
-- Track diffusion papers explicitly targeted at temporal or longitudinal data.
-- Identify whether latent diffusion formulations are being adapted to EHR or multimodal clinical sequences.
-- Compare diffusion-based temporal generation with autoregressive and state-space approaches.

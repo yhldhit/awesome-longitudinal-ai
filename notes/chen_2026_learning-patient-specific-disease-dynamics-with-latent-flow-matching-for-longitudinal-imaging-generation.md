@@ -27,23 +27,6 @@ The method uses latent flow matching for longitudinal imaging generation, aiming
 - Uses latent flow matching instead of a standard static generation setup.
 - Positions the model for personalized trajectory modeling in longitudinal imaging settings.
 
-## Strengths
-
-- Directly relevant to longitudinal AI and disease progression modeling.
-- Focuses on personalization, which is important for clinical forecasting and simulation.
-- Connects modern generative modeling with temporal medical imaging.
-
-## Limitations
-
-- The current note is based on repository metadata and title-level context; quantitative details still need to be extracted from the full paper.
-- Applicability beyond the studied imaging setting may depend on modality and cohort scale.
-
 ## Relevance to Longitudinal AI
 
 This paper is highly relevant. It sits close to the core of longitudinal AI by modeling subject-level temporal evolution in medical imaging with a generative framework.
-
-## Follow-up Ideas
-
-- Extract the exact latent flow matching formulation and temporal conditioning strategy.
-- Record the datasets, time intervals, and evaluation metrics used in the experiments.
-- Compare it against diffusion-based, autoregressive, and trajectory-forecasting baselines in longitudinal imaging.
