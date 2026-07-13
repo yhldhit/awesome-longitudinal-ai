@@ -54,6 +54,11 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 [MICCAI, 2024] [LaTIM Inserm UMR 1101, University of Western Brittany, Lariboisiere Hospital AP-HP] \
 [[Paper](https://papers.miccai.org/miccai-2024/paper/0263_paper.pdf)] [[Note](notes/zeghlache_2024_latim-longitudinal-representation-learning.md)]
 
+**Vision Foundation Models for Computed Tomography** \
+*Suraj Pai, Ibrahim Hadzic, Dennis Bontempi, Keno Bressem, Benjamin H. Kann, Andriy Fedorov, Raymond H. Mak, Hugo J. W. L. Aerts* \
+[arXiv, 2025] [Mass General Brigham, Harvard Medical School, Maastricht University] \
+[[Paper](https://arxiv.org/abs/2501.09001)] [[Note](notes/pai_2025_vision-foundation-models-for-computed-tomography.md)]
+
 ### Diffusion-based
 
 ### Latent Diffusion-based
