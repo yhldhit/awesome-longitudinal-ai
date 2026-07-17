@@ -59,6 +59,11 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 [arXiv, 2025] [Mass General Brigham, Harvard Medical School, Maastricht University] \
 [[Paper](https://arxiv.org/abs/2501.09001)] [[Note](notes/pai_2025_vision-foundation-models-for-computed-tomography.md)]
 
+**Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations** \
+*Pritika Vig, Ren-Chin Wu, William Lotter* \
+[arXiv, 2026] [MIT, Dana-Farber Cancer Institute, Harvard Medical School] \
+[[Paper](https://arxiv.org/abs/2601.21334)] [[Github](https://github.com/pritika-vig/embeddings_disease_progression_analysis)] [[Note](notes/vig_2026_do-pathology-foundation-models-encode-disease-progression.md)]
+
 ### Diffusion-based
 
 ### Latent Diffusion-based

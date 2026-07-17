@@ -10,6 +10,7 @@ Store one markdown note per paper.
 - [Foundation Models in Radiology: What, How, Why, and Why Not](paschali_2025_foundation-models-in-radiology.md)
 - [LaTiM: Longitudinal Representation Learning in Continuous-Time Models to Predict Disease Progression](zeghlache_2024_latim-longitudinal-representation-learning.md)
 - [Vision Foundation Models for Computed Tomography](pai_2025_vision-foundation-models-for-computed-tomography.md)
+- [Do Pathology Foundation Models Encode Disease Progression? A Pseudotime Analysis of Visual Representations](vig_2026_do-pathology-foundation-models-encode-disease-progression.md)
 - [Learning Patient-specific Disease Dynamics with Latent Flow Matching for Longitudinal Imaging Generation](chen_2026_learning-patient-specific-disease-dynamics-with-latent-flow-matching-for-longitudinal-imaging-generation.md)
 - [Conditional Latent Diffusion Models for Irregularly Spaced Longitudinal Radiological Data](mouadden_2025_conditional-latent-diffusion-models-for-irregularly-spaced-longitudinal-radiological-data.md)
 - [ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images](liu_2024_imageflownet-forecasting-multiscale-trajectories.md)
