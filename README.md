@@ -99,6 +99,11 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 [CVPR, 2025] [Xidian University, Brown University] \
 [[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Enhanced_Contrastive_Learning_with_Multi-view_Longitudinal_Data_for_Chest_X-ray_CVPR_2025_paper.html)] [[Github](https://github.com/mk-runner/MLRG)] [[Note](notes/liu_2025_enhanced-contrastive-learning-multiview-longitudinal.md)]
 
+**CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging** \
+*Ibrahim Ethem Hamamci, Sezgin Er, Bjoern Menze* \
+[MICCAI, 2024] [University of Zurich, Istanbul Medipol University] \
+[[Paper](https://papers.miccai.org/miccai-2024/paper/2185_paper.pdf)] [[Github](https://github.com/ibrahimethemhamamci/CT2Rep)] [[Note](notes/hamamci_2024_ct2rep-automated-radiology-report-generation.md)]
+
 ## Resources
 
 ### Datasets

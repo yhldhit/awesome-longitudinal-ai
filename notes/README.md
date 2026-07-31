@@ -16,6 +16,7 @@ Store one markdown note per paper.
 - [ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images](liu_2024_imageflownet-forecasting-multiscale-trajectories.md)
 - [HERGen: Elevating Radiology Report Generation with Longitudinal Data](wang_2024_hergen-elevating-radiology-report-generation.md)
 - [Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation](liu_2025_enhanced-contrastive-learning-multiview-longitudinal.md)
+- [CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging](hamamci_2024_ct2rep-automated-radiology-report-generation.md)
 
 ## Suggested naming
 
