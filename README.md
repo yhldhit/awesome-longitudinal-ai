@@ -89,6 +89,11 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 
 ### Multimodal-based
 
+**HERGen: Elevating Radiology Report Generation with Longitudinal Data** \
+*Fuying Wang, Shenghui Du, Lequan Yu* \
+[ECCV, 2024] [The University of Hong Kong] \
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73001-6_11)] [[Github](https://github.com/HKU-MedAI/HERGen)] [[Note](notes/wang_2024_hergen-elevating-radiology-report-generation.md)]
+
 ## Resources
 
 ### Datasets
