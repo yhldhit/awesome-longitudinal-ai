@@ -104,6 +104,11 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 [MICCAI, 2024] [University of Zurich, Istanbul Medipol University] \
 [[Paper](https://papers.miccai.org/miccai-2024/paper/2185_paper.pdf)] [[Github](https://github.com/ibrahimethemhamamci/CT2Rep)] [[Note](notes/hamamci_2024_ct2rep-automated-radiology-report-generation.md)]
 
+**Advancing cancer detection and treatment using longitudinal routine clinical data** \
+*Fei Liu, Kai Wang, Hui Xu, et al.* \
+[Cell, 2026] [Wenzhou Medical University, Macau University of Science and Technology, Guangzhou National Laboratory] \
+[[Paper](https://www.cell.com/cell/fulltext/S0092-8674(26)00807-X)] [[Github](https://github.com/kaiwang13/Oncoformer)] [[Note](notes/liu_2026_advancing-cancer-detection-treatment-longitudinal-data.md)]
+
 ## Resources
 
 ### Datasets

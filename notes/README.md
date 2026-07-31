@@ -17,6 +17,7 @@ Store one markdown note per paper.
 - [HERGen: Elevating Radiology Report Generation with Longitudinal Data](wang_2024_hergen-elevating-radiology-report-generation.md)
 - [Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation](liu_2025_enhanced-contrastive-learning-multiview-longitudinal.md)
 - [CT2Rep: Automated Radiology Report Generation for 3D Medical Imaging](hamamci_2024_ct2rep-automated-radiology-report-generation.md)
+- [Advancing cancer detection and treatment using longitudinal routine clinical data](liu_2026_advancing-cancer-detection-treatment-longitudinal-data.md)
 
 ## Suggested naming
 
