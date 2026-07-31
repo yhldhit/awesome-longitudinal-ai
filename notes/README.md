@@ -15,6 +15,7 @@ Store one markdown note per paper.
 - [Conditional Latent Diffusion Models for Irregularly Spaced Longitudinal Radiological Data](mouadden_2025_conditional-latent-diffusion-models-for-irregularly-spaced-longitudinal-radiological-data.md)
 - [ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images](liu_2024_imageflownet-forecasting-multiscale-trajectories.md)
 - [HERGen: Elevating Radiology Report Generation with Longitudinal Data](wang_2024_hergen-elevating-radiology-report-generation.md)
+- [Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation](liu_2025_enhanced-contrastive-learning-multiview-longitudinal.md)
 
 ## Suggested naming
 

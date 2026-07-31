@@ -94,6 +94,11 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 [ECCV, 2024] [The University of Hong Kong] \
 [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73001-6_11)] [[Github](https://github.com/HKU-MedAI/HERGen)] [[Note](notes/wang_2024_hergen-elevating-radiology-report-generation.md)]
 
+**Enhanced Contrastive Learning with Multi-view Longitudinal Data for Chest X-ray Report Generation** \
+*Kang Liu, Zhuoqi Ma, Xiaolu Kang, Yunan Li, Kun Xie, Zhicheng Jiao, Qiguang Miao* \
+[CVPR, 2025] [Xidian University, Brown University] \
+[[Paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Enhanced_Contrastive_Learning_with_Multi-view_Longitudinal_Data_for_Chest_X-ray_CVPR_2025_paper.html)] [[Github](https://github.com/mk-runner/MLRG)] [[Note](notes/liu_2025_enhanced-contrastive-learning-multiview-longitudinal.md)]
+
 ## Resources
 
 ### Datasets
