@@ -38,7 +38,7 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 **A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation** \
 *Shaoyang Zhou, Yingshu Li, Yunyi Liu, Lingqiao Liu, Lei Wang, Luping Zhou* \
 [arXiv, 2025] [The University of Sydney, The University of Adelaide, University of Wollongong] \
-[[Paper](https://arxiv.org/pdf/2510.12444)] [[Note](notes/zhou_2025_review-of-longitudinal-radiology-report-generation.md)]
+[[Paper](https://arxiv.org/abs/2510.12444)] [[Note](notes/zhou_2025_review-of-longitudinal-radiology-report-generation.md)]
 
 **Foundation Models in Radiology: What, How, Why, and Why Not** \
 *Magdalini Paschali, Zhihong Chen, Louis Blankemeier, Maya Varma, Alaa Youssef, Christian Bluethgen, Curtis Langlotz, Sergios Gatidis, Akshay Chaudhari* \
