@@ -120,3 +120,8 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 
 ### Benchmarks
 
+**CT-∆Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models** \
+*Kegeng Tang, Jingbo Wang, Shaogang Ren, Zihao Wang* \
+[COLM, 2026] [University of Tennessee at Chattanooga] \
+[[Data and Code](https://huggingface.co/datasets/tangkg/CT-DeltaBench)] [[Note](notes/tang_2026_ct-deltabench.md)]
+

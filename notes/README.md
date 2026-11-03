@@ -4,6 +4,7 @@ Store one markdown note per paper.
 
 ## Index
 
+- [CT-∆Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models](tang_2026_ct-deltabench.md)
 - [RADAR: A Difference-Aware Retrieval With Organ-Level Alignment for Change Radiology Report Generation](pan_2026_radar-change-radiology-report-generation.md)
 - [A Survey on Generative Diffusion Model](cao_2024_a-survey-on-generative-diffusion-model.md)
 - [A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](yang_2026_survey-on-diffusion-models-for-time-series-and-spatio-temporal-data.md)
