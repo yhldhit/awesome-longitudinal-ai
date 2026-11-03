@@ -89,6 +89,11 @@ A curated repository for papers, tools, datasets, benchmarks, and notes related 
 
 ### Multimodal-based
 
+**RADAR: A Difference-Aware Retrieval With Organ-Level Alignment for Change Radiology Report Generation** \
+*Yizhi Pan, Guanqun Sun, Yingying Zhu, Haitao Jiang, Han Shu, Le Minh Nguyen* \
+[IEEE Transactions on Medical Imaging, 2026] [Hangzhou Medical College, Japan Advanced Institute of Science and Technology, Chinese Academy of Sciences] \
+[[Paper](https://doi.org/10.1109/TMI.2026.3712240)] [[Github](https://github.com/yizhipan/RADAR)] [[Note](notes/pan_2026_radar-change-radiology-report-generation.md)]
+
 **HERGen: Elevating Radiology Report Generation with Longitudinal Data** \
 *Fuying Wang, Shenghui Du, Lequan Yu* \
 [ECCV, 2024] [The University of Hong Kong] \

@@ -4,6 +4,7 @@ Store one markdown note per paper.
 
 ## Index
 
+- [RADAR: A Difference-Aware Retrieval With Organ-Level Alignment for Change Radiology Report Generation](pan_2026_radar-change-radiology-report-generation.md)
 - [A Survey on Generative Diffusion Model](cao_2024_a-survey-on-generative-diffusion-model.md)
 - [A Survey on Diffusion Models for Time Series and Spatio-Temporal Data](yang_2026_survey-on-diffusion-models-for-time-series-and-spatio-temporal-data.md)
 - [A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation](zhou_2025_review-of-longitudinal-radiology-report-generation.md)
